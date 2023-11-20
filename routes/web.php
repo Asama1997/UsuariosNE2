@@ -9,7 +9,10 @@ use App\Http\Controllers\CheckoutController;
 
 
 Route::get('/', function () {
-    return view('Home');
+    return view('Home.Home');
+});
+Route::get('/catalogo', function () {
+    return view('Catalogo.Cat');
 });
 Route::get('/login', function () {
     return view('login');
