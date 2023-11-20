@@ -38,5 +38,6 @@
       @yield('content')
     </div> 
     <script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
+    @include('include.footer')
   </body>
 </html>
