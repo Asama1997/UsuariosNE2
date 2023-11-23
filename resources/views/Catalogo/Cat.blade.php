@@ -1,7 +1,6 @@
 @extends('Catalogo.layout')
 @section('title', 'Catalogo')
 @section('content')
-
     <!-- 
         Catalogo de productos
     -->

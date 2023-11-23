@@ -22,20 +22,20 @@
             </a> 
           </li>      
           <li class="nav-item"> 
-            <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/vehicules/">
+            <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/profile/">
               Mi Perfil
             </a> 
-          </li>             
-          <li class="nav-item"> 
-            <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/vehicules/">
+          </li>          
+          <li class="nav-item">  
+            <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/loginclient/">
               Login
             </a> 
-          </li>        
-          <li class="nav-item"> 
-            <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/vehicules/">
-              Lista de Deseados
-            </a>
-          </li>
+          </li>                 
+          <li class="nav-item">  
+            <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/registerclient/">
+              Registrarse
+            </a> 
+          </li>       
           <li class="nav-item"> 
             <a href="https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_cart&business=96XL9CFWH268G&display=1">
               Carrito

@@ -17,6 +17,15 @@ Route::get('/catalogo', function () {
 Route::get('/login', function () {
     return view('login');
 });
+Route::get('/loginclient', function () {
+    return view('ClientsL.Login');
+});
+Route::get('/registerclient', function () {
+    return view('ClientsR.Register');
+});
+Route::get('/profile', function () {
+    return view('ClientsP.Profile');
+});
 Route::resource('users', UserController::class);
 Route::get('/employee/{email}', [EmployeeController::class, 'index'])->name('employee.index');
 Route::put('/users/{id}/update2', [UserController::class, 'update2'])->name('users.update2');

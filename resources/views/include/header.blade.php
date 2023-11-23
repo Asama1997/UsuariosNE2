@@ -10,10 +10,13 @@
           <a class="nav-link active" aria-current="page" href="http://localhost:88/UsuariosNE2/public/vehicules/">Flotilla</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Opcion B</a>
+          <a class="nav-link" href="">Agregar Categoria</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="">Opcion C</a>
+          <a class="nav-link" href="">Agregar Productos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="">Reponer materiales</a>
         </li>
       </ul>
     </div>
