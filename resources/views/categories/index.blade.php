@@ -1,13 +1,13 @@
-@extends('vehicule.layout')
+@extends('categories.layout')
  
 @section('content')
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Flotilla</h2>
+                <h2>Categories</h2>
             </div>
             <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('vehicules.create') }}"> Create a New Vehicule</a>
+                <a class="btn btn-success" href="{{ route('vehicules.create') }}"> Create a New Categorie</a>
             </div>
         </div>
     </div>
